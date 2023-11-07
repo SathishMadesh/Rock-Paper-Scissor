@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #fff;
+    background-color: black;
+}
+
+.game-title {
+    text-align: center;
+}
+
+.game-title h2,h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.btn-img {
+    background-color: transparent;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    padding: 25px;
+    cursor: pointer;
+}
+
+button{
+    border: none;
+    background-color: black;
+    margin: 1rem;
+}
+
+.rst-btn {
+    margin-top: 30px;
+    font-size: 20px;
+    padding: 10px 30px;
+    background-color: white;
+    border: 2px #fff solid;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.user-choice {
+    text-align: center;
+}
+
+.result {
+    color: #fff;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.picks {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pick-icon {
+    height: 30px;
+    width: 30px;
+}
+
+.score {
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
